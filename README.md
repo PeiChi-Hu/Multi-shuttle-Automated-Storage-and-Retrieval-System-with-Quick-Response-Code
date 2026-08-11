@@ -1,6 +1,6 @@
 # Multi-shuttle Automated Storage and Retrieval System with Quick Response Code
 
-[📄 Read Full Paper (PDF)](./Multi-shuttle Automated Storage and Retrieval System with Quick Response Code.pdf)
+[📄 Read Full Paper (PDF)](./paper.pdf)
 
 **Pei-Chi Hu**\*, Tian-Chun Chen\*, Yan-Ting Chen, Chia-Hao Cheng, Cheng-Han Li, Yun-Chien Cheng
 
